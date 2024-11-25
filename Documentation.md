@@ -92,5 +92,7 @@ _Key words to note_
    You can use PowerShell for automating and managing ADDS configurations. For example, `Install-WindowsFeature AD-Domain-Services` to install ADDS via PowerShell.
 
 ---
+Copyright © 2024 Spiral Network. 
+**All rights reserved.Privacy Policy Use of Cookies Terms of Use Sales and Refunds Legal Site Map**
 
-**End**
+_property of Spiral Network_
